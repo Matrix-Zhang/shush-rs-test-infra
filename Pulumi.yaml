@@ -1,0 +1,3 @@
+name: shush-rs
+runtime: dotnet
+description: AWS KMS infra for shush-rs
